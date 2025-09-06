@@ -60,13 +60,13 @@ app/
 ## 🔧 Development
 
 - [Development Plan](./docs/development_plan.md) - План разработки
-- [Central Documentation](../profitable-web-docs/) - Центральная документация проекта
+- [Central Documentation](https://github.com/ProfitableWeb/profitable-web-docs) - Центральная документация проекта
 
 ## 🔗 Links
 
-- **Central Docs**: [profitable-web-docs](../profitable-web-docs/)
-- **Frontend**: [profitable-web-frontend](../profitable-web-frontend/)
-- **Admin Panel**: [profitable-web-admin](../profitable-web-admin/)
+- **Central Docs**: [profitable-web-docs](https://github.com/ProfitableWeb/profitable-web-docs)
+- **Frontend**: [profitable-web-frontend](https://github.com/ProfitableWeb/profitable-web-frontend)
+- **Admin Panel**: [profitable-web-admin](https://github.com/ProfitableWeb/profitable-web-admin)
 
 ---
 
